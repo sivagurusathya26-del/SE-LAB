@@ -1,0 +1,9 @@
+Usecase: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharing
+Activity: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharing
+Class: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharing
+Object: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharing
+Sequence: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharing
+Collaboration: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharin
+Component: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharing
+Deployment: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharing
+partiallayered: https://drive.google.com/file/d/1gOiDOuNpRJQyQB2M3vCiUkYWmuNr0AKj/view?usp=sharing
